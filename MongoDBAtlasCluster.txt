@@ -1,0 +1,6 @@
+MongoDB Cluster 
+
+username : krchome
+pwd: 5FhNNo2Woh47oan8
+
+mongodb+srv://krchome:<password>@cluster0.xzckc.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
